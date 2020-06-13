@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04f88e67-bf6f-42c9-bc93-35e25e59288b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XhfqWPtXUzsQ3SeoviG4u8mPny" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Gitcode/Gaze/GazeCapture" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Applications\PyCharm Community Edition 2019.3.3\Pycharm Projects\Eye-tracking\Calibration" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Draw_vector">
+    <configuration name="Button_click (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eye-tracking" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Button_click.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Draw_vector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eye-tracking" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Draw_vector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Transfer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eye-tracking" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Transfer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calib_intrinsic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eye-tracking" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Calibration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calibration/calib_intrinsic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Eye-tracking" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Draw_vector" />
+        <item itemvalue="Python.Button_click (1)" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.Transfer" />
+        <item itemvalue="Python.calib_intrinsic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04f88e67-bf6f-42c9-bc93-35e25e59288b" name="Default Changelist" comment="" />
+      <created>1581503437998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581503437998</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586834473382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586834473382" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584930151770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584930151770" />
+    <state x="587" y="48" width="646" height="776" key="#xdebugger.evaluate" timestamp="1591799156279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="587" y="48" width="646" height="776" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1591799156279" />
+    <state width="1074" height="438" key="DebuggerActiveHint" timestamp="1584955425359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1074" height="438" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1584955425359" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591929549367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591929549367" />
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom" timestamp="1591858198563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591858198563" />
+    <state width="1515" height="256" key="GridCell.Tab.0.center" timestamp="1591858198563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591858198563" />
+    <state width="1515" height="256" key="GridCell.Tab.0.left" timestamp="1591858198563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591858198563" />
+    <state width="1515" height="256" key="GridCell.Tab.0.right" timestamp="1591858198563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591858198563" />
+    <state width="1515" height="309" key="GridCell.Tab.1.bottom" timestamp="1591804971876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="309" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591804971876" />
+    <state width="1515" height="309" key="GridCell.Tab.1.center" timestamp="1591804971876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="309" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591804971876" />
+    <state width="1515" height="309" key="GridCell.Tab.1.left" timestamp="1591804971876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="309" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591804971876" />
+    <state width="1515" height="309" key="GridCell.Tab.1.right" timestamp="1591804971876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="309" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591804971876" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1586228674093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1586228674093" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591929509259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591929509259" />
+    <state x="436" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585566605247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585566605247" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Calibration/calib_2.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Calibration/calib_2.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Transfer.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Calibration/Calibration_Extrinsic.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Calibration/calib_intrinsic.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
